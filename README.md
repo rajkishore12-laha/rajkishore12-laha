@@ -195,14 +195,6 @@ const rajkishore = {
 </div>
 
 ---
-
-<div align="center">
-  
-  ![Metrics](https://github.com/rajkishore12-laha/rajkishore12-laha/blob/main/github-metrics.svg)
-  
-</div>
-
----
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 </div>
