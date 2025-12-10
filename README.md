@@ -1,7 +1,7 @@
-# <div align="center"> Welcome to Pratik's Digital Universe! </div>
+# <div align="center"> Welcome to RAJ KISHORE LAHA's Digital Universe! </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratik%20Mohanty&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=RAJ%20KISHORE%20LAHA&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratiktech957&style=for-the-badge&color=blueviolet&label=VISITORS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Pratiktech957?style=for-the-badge&color=blue&labelColor=1c1c1c" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Pratiktech957?style=for-the-badge&color=yellow&labelColor=1c1c1c" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=rajkishore12-laha&style=for-the-badge&color=blueviolet&label=VISITORS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/rajkishore12-laha?style=for-the-badge&color=blue&labelColor=1c1c1c" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/rajkishore12-laha?style=for-the-badge&color=yellow&labelColor=1c1c1c" alt="Stars"/>
 </div>
 
 ---
@@ -19,10 +19,9 @@
 ## 🎭 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ```javascript
-const pratik = {
-    name: "Pratik Mohanty",
+const rajkishore = {
+    name: "RAJ KISHORE LAHA",
     role: "Full Stack Developer & AI Enthusiast",
     education: "B.Tech @ Siksha 'O' Anusandhan University",
     location: "India 🇮🇳",
@@ -37,7 +36,7 @@ const pratik = {
 ```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiktech957&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajkishore12-laha&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -97,16 +96,16 @@ const pratik = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pratiktech957&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pratiktech957&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajkishore12-laha&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajkishore12-laha&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiktech957&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkishore12-laha&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratiktech957&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rajkishore12-laha&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -182,11 +181,11 @@ const pratik = {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-mohanty-tech)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pratiktech957)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/pratik#0000)
-  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:praj24196@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white)](https://pratiktech957.github.io)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kishore-laha)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajkishore12laha)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rajkishore#0000)
+  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkishorelaha@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white)](https://rajkishore12-laha.github.io)
   
 </div>
 
@@ -199,7 +198,7 @@ const pratik = {
 
 <div align="center">
   
-  ![Metrics](https://github.com/Pratiktech957/Pratiktech957/blob/main/github-metrics.svg)
+  ![Metrics](https://github.com/rajkishore12-laha/rajkishore12-laha/blob/main/github-metrics.svg)
   
 </div>
 
@@ -208,17 +207,17 @@ const pratik = {
 ## 🎖️ Achievements
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiktech957&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajkishore12-laha&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratiktech957&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratiktech957&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajkishore12-laha&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajkishore12-laha&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratiktech957&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratiktech957&theme=github_dark&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajkishore12-laha&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajkishore12-laha&theme=github_dark&utcOffset=8" />
 </div>
 
 ---
@@ -234,6 +233,6 @@ const pratik = {
 </div>
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/Pratiktech957">Pratik Mohanty</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/rajkishore12-laha">RAJ KISHORE LAHA</a></p>
   <p>⭐ Star this repository if you liked it!</p>
 </div>
